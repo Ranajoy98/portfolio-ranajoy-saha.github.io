@@ -6,65 +6,65 @@
 
 ## Technologies Used
 
-# HTML5, CSS3, JavaScript: Frontend development.
+* HTML5, CSS3, JavaScript: Frontend development.
 
-# Massively Template (HTML5 UP): Pre-designed template used for structuring the portfolio.
+* Massively Template (HTML5 UP): Pre-designed template used for structuring the portfolio.
 
-# Font Awesome: Icons for social media links.
+* Font Awesome: Icons for social media links.
 
 ## Project Highlights
 
 ## ETL and Data Analytics on Global Retail Orders Dataset
 
-# Implemented an end-to-end ETL pipeline.
+* Implemented an end-to-end ETL pipeline.
 
-# Performed data cleaning and transformation using SQL and Python.
+* Performed data cleaning and transformation using SQL and Python.
 
-# Generated insights for business decision-making.
+* Generated insights for business decision-making.
 
 ## Food Delivery Time Prediction
 
-# Used machine learning to predict delivery times.
+* Used machine learning to predict delivery times.
 
-# Analyzed delivery personnel ratings, travel distance, and vehicle types.
+* Analyzed delivery personnel ratings, travel distance, and vehicle types.
 
 ## London Bike Sharing Analysis
 
-# Explored factors affecting bike-sharing trends.
+* Explored factors affecting bike-sharing trends.
 
-# Created visualizations using Tableau and Python.
+* Created visualizations using Tableau and Python.
 
 ## Movie Recommendation System
 
-# uilt a recommendation engine using Flask and Pandas.
+* Built a recommendation engine using Flask and Pandas.
 
-# Provided movie suggestions based on various filters.
+* Provided movie suggestions based on various filters.
 
 ## Dynamic Sales Insights Dashboard
 
-# Developed a Power BI dashboard to analyze sales trends.
+* Developed a Power BI dashboard to analyze sales trends.
 
 ## Installation & Setup
 
-# Clone the repository:
+* Clone the repository:
 
-# git clone https://github.com/Ranajoy98/portfolio-website.git
+* git clone https://github.com/Ranajoy98/portfolio-website.git
 
-# Navigate to the project directory:
+* Navigate to the project directory:
 
-# cd portfolio-website
+* cd portfolio-website
 
-# Open index.html in a web browser to view the portfolio.
+* Open index.html in a web browser to view the portfolio.
 
 ## Contact
 
-# Email: ranajoy5saha@gmail.com
+* Email: ranajoy5saha@gmail.com
 
-# LinkedIn: linkedin.com/in/ranajoy11
+* LinkedIn: linkedin.com/in/ranajoy11
 
-# GitHub: github.com/Ranajoy98
+* GitHub: github.com/Ranajoy98
 
 ## License
 
-# This project is licensed under the Creative Commons Attribution 3.0 license (html5up.net/license).
+* This project is licensed under the Creative Commons Attribution 3.0 license (html5up.net/license).
 
