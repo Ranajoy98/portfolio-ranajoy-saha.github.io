@@ -2,7 +2,7 @@
 
 ## Overview
 
-# This is a personal portfolio website showcasing projects related to Data Analytics, ETL, and Machine Learning. The website is built using the "Massively" template from HTML5 UP.
+* This is a personal portfolio website showcasing projects related to Data Analytics, ETL, and Machine Learning. The website is built using the "Massively" template from HTML5 UP.
 
 ## Technologies Used
 
